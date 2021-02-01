@@ -6,9 +6,9 @@ description: Economics
 
 github_username:  evaloaeza
 
-#header_pages:
-#- research.md
-#- teaching.md
+header_pages:
+- research.md
+- teaching.md
  
 # Build settings
 markdown: kramdown
