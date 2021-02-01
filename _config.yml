@@ -1,0 +1,15 @@
+# basic options
+title: Eva Loaeza
+#author: Eva Loaeza  
+email: edloaeza@cougarnet.uh.edu
+description: Economics
+
+github_username:  evaloaeza
+
+#header_pages:
+#- research.md
+#- teaching.md
+ 
+# Build settings
+markdown: kramdown
+theme: minima
