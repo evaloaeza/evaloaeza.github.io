@@ -13,4 +13,4 @@ header_pages:
  
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: minima
