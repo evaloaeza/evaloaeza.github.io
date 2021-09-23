@@ -5,8 +5,7 @@ title: Research
 
 
 ### Ongoing Projects
-<br> Is School District Investment Driven by Students- or Administrators?
-<br>
+- Is School District Investment Driven by Students- or Administrators?
 
 ### Competition Studies
 At the Federal Economic Competition Commission [(COFECE)](https://www.cofece.mx/?lang=en) I worked in the following studies: 
