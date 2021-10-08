@@ -8,5 +8,4 @@ My research interests are mainly in:
 * Health Economics
 * Competition Policy
 
-![Profile Picutre](https://raw.githubusercontent.com/evaloaeza/evaloaeza.github.io/main/profile%20picture.jpg)
-
+<img src="https://raw.githubusercontent.com/evaloaeza/evaloaeza.github.io/main/profile%20picture.jpg" width="48">
