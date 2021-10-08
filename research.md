@@ -6,6 +6,7 @@ title: Research
 
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
+- Demand for emergency contraceptives in the USA
 
 ### Competition Studies
 At the Federal Economic Competition Commission [(COFECE)](https://www.cofece.mx/?lang=en) I worked in the following studies: 
