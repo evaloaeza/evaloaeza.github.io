@@ -1,16 +1,7 @@
-# basic options
-title: Eva Loaeza
-#logo: /images/me.PNG
-#author: Eva Loaeza  
-email: 
-description: Economics
+theme: jekyll-theme-minimal
+title: 
+description: 
+show_downloads: false
+github:
+  is_project_page: true
 
-github_username:
-
-header_pages:
-- research.md
-- teaching.md
- 
-# Build settings
-markdown: kramdown
-theme: minima
