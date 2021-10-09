@@ -1,10 +1,10 @@
-My research interests are mainly in:
+# Research
+## Interests
 * Empirical IO
 * Human Capital
 * Health Economics
 * Competition Policy
 
-# Research
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
 - Demand for emergency contraceptives in the USA
