@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Eva Loaeza
 description: Here is my <a href="/files/cv_eva.pdf">CV</a>.
 
-logo: profile_pic.png
+logo: /files/profile_pic.png
