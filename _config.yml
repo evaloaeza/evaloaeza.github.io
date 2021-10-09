@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-
 title: Eva Loaeza
 description: Here is my <a href="/files/cv_eva.pdf">CV</a>.
-
-logo: /files/img/profile_pic.png
+show_downloads: false
+github:
+  is_project_page: true
