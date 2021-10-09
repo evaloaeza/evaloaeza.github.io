@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/evaloaeza/evaloaeza.github.io/main/profile_pic.png" width="150">
+<img src="https://raw.githubusercontent.com/evaloaeza/evaloaeza.github.io/main/files/img/profile_pic.png" width="150">
 
 I am a PhD student in Economics at [Universtity of Houston](https://www.uh.edu/class/economics/). Formerly, I studied my BA at National Autonomous University of Mexico [(UNAM)](http://www.economia.unam.mx/), and MSc at Mexico Autonomous Institute of Technology [(ITAM)](https://posgrados.itam.mx/).
 
