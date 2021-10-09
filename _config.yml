@@ -1,16 +1,6 @@
-# basic options
+theme: jekyll-theme-minimal
+
 title: Eva Loaeza
-#logo: /images/me.PNG
-#author: Eva Loaeza  
-email: 
-description: Economics
+description: Here is my <a href="/files/cv_eva.pdf">CV</a>.
 
-github_username:
-
-header_pages:
-- research.md
-- teaching.md
- 
-# Build settings
-markdown: kramdown
-theme: minima
+logo: /files/img/avatar.jpg
