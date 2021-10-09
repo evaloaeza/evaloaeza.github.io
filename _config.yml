@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Eva Loaeza
 description: Here is my <a href="/files/cv_eva.pdf">CV</a>.
 
-logo: <img src="https://raw.githubusercontent.com/evaloaeza/evaloaeza.github.io/main/files/img/profile_pic.png" width="150">
+logo: /files/img/profile_pic.png
