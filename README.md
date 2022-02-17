@@ -5,7 +5,7 @@ Previously, I worked as an economist at the Federal Economic Competition Commiss
 
 Here you can find my <a href="/files/Eva_CV_2021.pdf">CV</a>.
 
-Research Interests: Empirical IO, Health Economics, Human Capital, Competition Policy
+My research interest: Empirical IO, Health Economics, Human Capital, Competition Policy
 
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
