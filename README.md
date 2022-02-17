@@ -5,12 +5,7 @@ Previously, I worked as an economist at the Federal Economic Competition Commiss
 
 Here you can find my <a href="/files/Eva_CV_2021.pdf">CV</a>.
 
-# Research
-## Interests
-* Empirical IO
-* Human Capital
-* Health Economics
-* Competition Policy
+Research Interests: Empirical IO, Health Economics, Human Capital, Competition Policy
 
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
@@ -25,6 +20,8 @@ At the Federal Economic Competition Commission [(COFECE)](https://www.cofece.mx/
 
 # Teaching
 ### Teaching Assistant at University of Houston
+- Empirical Industrial Organization (Undergraduate), Spring 2022
+- Applied Econometrics (Undergraduate), Spring 2022
 - Behavioral Economics (Undergraduate), Fall 2021
 - Health Economics (Master Level), Spring 2021
 - Economics of Health Care (Undergraduate), Fall 2020
