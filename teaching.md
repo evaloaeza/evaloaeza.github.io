@@ -1,7 +1,7 @@
 ---
 title: Teaching
 layout: template
-filename: 5teaching
+filename: teaching
 order: 2
 --- 
 
