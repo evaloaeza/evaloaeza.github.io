@@ -2,7 +2,7 @@
 title: Teaching
 layout: template
 filename: teaching
-order: 2
+order: 3
 --- 
 
 # :man_teacher: Teaching
