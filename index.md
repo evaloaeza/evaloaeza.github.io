@@ -11,4 +11,4 @@ I am a PhD student in Economics at [Universtity of Houston](https://www.uh.edu/c
 
 Previously, I worked as an economist at the Federal Economic Competition Commission [(COFECE)](https://www.cofece.mx/?lang=en), and the Mexican Social Security Institute [(IMSS)](http://www.imss.gob.mx/), both in Mexico City. 
 
-My research interest: Empirical IO, Health Economics, Human Capital, Competition Policy
+My research interest: Empirical Industrial Organization, Health Economics, Human Capital, Competition Policy.
