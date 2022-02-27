@@ -5,7 +5,7 @@ filename: 4teaching
 order: 3
 --- 
 
-# :man_teacher: Teaching
+# :woman_teacher: Teaching
 ### Teaching Assistant at University of Houston
 - Empirical Industrial Organization (Undergraduate), Spring 2022
 - Applied Econometrics (Undergraduate), Spring 2022
