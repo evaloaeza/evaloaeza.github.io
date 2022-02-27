@@ -5,7 +5,7 @@ filename: research
 order: 1
 --- 
 
-# :woman_detective: Research
+# :thought_balloon: Research
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
 - Demand for emergency contraceptives in the USA
