@@ -1,6 +1,11 @@
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "contrast"
 title:
 description: 
+markdown: kramdown
+plugins:
+  - jekyll-multiple-languages-plugin
+  - jemoji
 show_downloads: false
 github:
   is_project_page: false
