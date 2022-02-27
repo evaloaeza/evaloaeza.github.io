@@ -1,7 +1,7 @@
 ---
 title: Vitae
 layout: template
-filename: 3vitae
+filename: vitae
 order: 2
 --- 
 
