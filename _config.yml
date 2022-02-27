@@ -2,14 +2,11 @@ theme: jekyll-theme-minimal
 minimal_mistakes_skin: "contrast"
 title: Eva Loaeza
 description: 
-header_pages:
-- index.md
-- research.md
-- teaching.md
 markdown: kramdown
 plugins:
   - jekyll-multiple-languages-plugin
   - jemoji
 show_downloads: false
 github:
-  is_project_page: false
+  is_project_page: true
+  languages: ["en"]
