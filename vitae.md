@@ -1,8 +1,8 @@
 ---
 title: Vitae
 layout: template
-filename: 3vitae
-order: 2
+filename: 4vitae
+order: 3
 --- 
 
 # :page_with_curl: CV
