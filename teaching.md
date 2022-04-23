@@ -7,12 +7,10 @@ order: 3
 
 # :woman_teacher: Teaching
 
-## At University of Houston
-
-### Lecturer
+### Lecturer at University of Houston
 - Principles of Microeconomics, (Undergraduate), Summer 2022
 
-### Teaching Assistant
+### Teaching Assistant at University of Houston
 - Empirical Industrial Organization (Undergraduate), Spring 2022
 - Applied Econometrics (Undergraduate), Spring 2022
 - Behavioral Economics (Undergraduate), Fall 2021
@@ -20,6 +18,5 @@ order: 3
 - Economics of Health Care (Undergraduate), Fall 2020
 - Introduction to Economic Data Analysis (Undergraduate), Fall 2019, Spring 2020
 
-## At UNAM
-### Teaching Assistant at UNAM
+### Teaching Assistant at UNAM at UNAM
 - Quantitative Economic Workshop VI (Undergraduate), Spring 2015
