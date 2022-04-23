@@ -6,6 +6,14 @@ order: 1
 --- 
 
 # :mag_right: Research
+
+## Research Interest
+- Empirical Industrial Organization
+- Health Economics
+- Development
+- Competition Policy
+
+
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
 - Demand for emergency contraceptives in the USA
