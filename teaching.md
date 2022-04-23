@@ -6,6 +6,10 @@ order: 3
 --- 
 
 # :woman_teacher: Teaching
+
+### Lecturer
+- Principles of Microeconomics, (Undergraduate), Summer 2022
+
 ### Teaching Assistant at University of Houston
 - Empirical Industrial Organization (Undergraduate), Spring 2022
 - Applied Econometrics (Undergraduate), Spring 2022
