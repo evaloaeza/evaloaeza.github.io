@@ -7,7 +7,7 @@ order: 1
 
 # :mag_right: Research
 
-## Research Interest
+### Research Interest
 - Empirical Industrial Organization
 - Health Economics
 - Development
