@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-minimal_mistakes_skin: "contrast"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint"
 title: Eva Loaeza
 description: 
 markdown: kramdown
