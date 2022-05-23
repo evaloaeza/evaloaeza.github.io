@@ -16,7 +16,8 @@ order: 1
 
 ### Ongoing Projects
 - Is School District Investment Driven by Students- or Administrators?
-- Demand for emergency contraceptives in the USA
+- Retail Availability of Emergency Contraceptives
+- The Effect of Industrial Robots on Health Outcomes in Mexico with Victor Zuluaga and Jeonghyeok Kim.
 
 ### Competition Studies
 At the Federal Economic Competition Commission [(COFECE)](https://www.cofece.mx/?lang=en) I worked in the following studies: 
