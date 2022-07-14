@@ -9,6 +9,7 @@ order: 3
 
 ### Lecturer at University of Houston
 - Principles of Macroeconomics, (Undergraduate), Summer 2022
+- - Material available here
 
 ### Teaching Assistant at University of Houston
 - Empirical Industrial Organization (Undergraduate), Spring 2022
