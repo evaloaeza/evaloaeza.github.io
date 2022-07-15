@@ -13,6 +13,7 @@ order: 3
 
 ### Teaching Assistant at University of Houston
 - Empirical Industrial Organization (Undergraduate), Spring 2022
+    - You can find the Syllabus [here]([https://github.com/evaloaeza/Principles-Macro](https://github.com/evaloaeza/Empirical-IO/blob/main/IO_szabo_%20syllabus_2022_updated.pdf)){:target="_blank"}.
 - Applied Econometrics (Undergraduate), Spring 2022
 - Behavioral Economics (Undergraduate), Fall 2021
 - Health Economics (Master Level), Spring 2021
