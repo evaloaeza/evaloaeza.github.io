@@ -15,6 +15,7 @@ order: 3
 - Empirical Industrial Organization (Undergraduate), Spring 2022
     - Syllabus [here](https://github.com/evaloaeza/Empirical-IO/blob/main/IO_szabo_%20syllabus_2022_updated.pdf){:target="_blank"}.
 - Applied Econometrics (Undergraduate), Spring 2022
+    - Syllabus [here](https://github.com/evaloaeza/Applied-Econometrics){:target="_blank"}
 - Behavioral Economics (Undergraduate), Fall 2021
 - Health Economics (Master Level), Spring 2021
 - Economics of Health Care (Undergraduate), Fall 2020
