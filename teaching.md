@@ -9,7 +9,7 @@ order: 3
 
 ### Lecturer at University of Houston
 - Principles of Macroeconomics, (Undergraduate), Summer 2022
-    - Material available [here]([https://github.com/woomora/CORE-econ-macro](https://github.com/evaloaeza/Principles-Macro/blob/main/ECON2301_syllabus_Summer_2022_updated.pdf)){:target="_blank"}.
+    - Material available [here]([https://github.com/evaloaeza/Principles-Macro]){:target="_blank"}.
 
 ### Teaching Assistant at University of Houston
 - Empirical Industrial Organization (Undergraduate), Spring 2022
