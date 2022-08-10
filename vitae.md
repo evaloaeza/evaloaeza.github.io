@@ -5,7 +5,7 @@ filename: 3vitae
 order: 2
 --- 
 
-# :page_with_curl: Eva Loaeza's CV
+# Eva Loaeza's CV
 Here you can find my <a href="/files/EvaLoaeza_CV_2022.pdf">CV</a>.
 
 ## Education
