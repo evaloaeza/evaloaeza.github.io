@@ -5,7 +5,7 @@ filename: index
 order: 0
 --- 
 
-## :wave: About me
+## About me
 
 I am a PhD student in Economics at [Universtity of Houston](https://www.uh.edu/class/economics/). Formerly, I studied my BA at National Autonomous University of Mexico [(UNAM)](http://www.economia.unam.mx/), and MSc at Mexico Autonomous Institute of Technology [(ITAM)](https://posgrados.itam.mx/). 
 
