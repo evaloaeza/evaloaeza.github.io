@@ -5,7 +5,7 @@ filename: 2research
 order: 1
 --- 
 
-# :mag_right: Research
+# Research
 
 ### Research Interest
 - Empirical Industrial Organization
