@@ -4,8 +4,8 @@ title: Eva Loaeza
 description: 
 markdown: kramdown
 plugins:
-  - jekyll-feed
-  -jemoji
+  - jekyll-multiple-languages-plugin
+  - jemoji
 show_downloads: false
 github:
   is_project_page: false
