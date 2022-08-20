@@ -1,11 +1,10 @@
-theme: jekyll-theme-minimal
+theme: minima
 minimal_mistakes_skin: "contrast"
 title: Eva Loaeza
 description: 
 markdown: kramdown
 plugins:
-  - jekyll-multiple-languages-plugin
-  - jemoji
+  - jekyll-feed
 show_downloads: false
 github:
   is_project_page: false
