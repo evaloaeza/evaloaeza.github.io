@@ -15,7 +15,7 @@ order: 1
 
 
 ### Ongoing Projects
-- Is School District Investment Driven by Students- or Administrators?
+- School Capital Investment at Long and Short Horizons with Bent E. Sorensen, Steven Craig, Md Abdullah Al Mashrur, Ryan McGregor, and Sameer Malik.
 - Retail Availability of Emergency Contraceptives
 - The Effect of Industrial Robots on Health Outcomes in Mexico with Victor Zuluaga and Jeonghyeok Kim.
 
