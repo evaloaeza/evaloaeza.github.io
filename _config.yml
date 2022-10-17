@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eva Loaeza"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Houston, TX"
   employer         :
