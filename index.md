@@ -13,7 +13,6 @@ Previously, I worked as an economist at the Federal Economic Competition Commiss
 
 My research lies in the intersection between empirical industrial organization, health economics, and development.
 
-# Eva Loaeza's CV
 Here you can find my <a href="/files/EvaLoaeza_CV_2022.pdf">CV</a>.
 
 ## Education
