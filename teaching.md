@@ -1,8 +1,8 @@
 ---
 title: Teaching
 layout: template
-filename: 4teaching
-order: 3
+filename: 1teaching
+order: 2
 --- 
 
 # :woman_teacher: Teaching
