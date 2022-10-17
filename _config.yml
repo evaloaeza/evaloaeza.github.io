@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eva Loaeza Albino"
 title_separator          : "-"
 name                     : &name "Eva Loaeza Albino"
-description              : &description "PhD Candidate at University of Houston"
+description              : &description "PhD Candidate in Economics at University of Houston"
 url                      : https://evaloaeza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evaloaeza.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eva Loaeza"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Economics at University of Houston"
   location         : "Houston, TX"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -184,10 +184,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
