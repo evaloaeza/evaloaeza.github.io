@@ -1,8 +1,7 @@
 ---
 title: Teaching
-layout: template
-filename: 3teaching
-order: 2
+collection: teaching
+permalink: /teaching/teaching
 --- 
 
 # :woman_teacher: Teaching
