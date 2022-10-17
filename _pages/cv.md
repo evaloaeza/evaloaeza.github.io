@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, University of Houston, 2024 (expected)
+* MA in Economics, University of Houston, 2021
+* MS in Economics, Mexico Autonomous Institute of Technology, 2015
+* BA in Economics, National Autonomous University of Mexico, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Director of Economic Analysis, Federal Economic Competition Commission, Mexico, 2016-2019
+* Deputy Director of Economic Analysis, Federal Economic Competition Commission, Mexico, 2015-2016
+* Research Analyst, Mexican Social Security Institute, 2011-2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Researcher, Hobby School of Public Affairs, University of Houston, 2022-2023
+* Research Assistant of Prof. Steve Craig, University of Houston, 2021
+* Research Assistant of Prof. Gerardo Esquivel Hernandez, El Colegio de Mexico, 2010-2011
+* Research Assistant of Prof. Noemi Levi Orlik, UNAM, 2010-2011
