@@ -1,8 +1,7 @@
 ---
 title: Research
-layout: template
-filename: 2research
-order: 1
+collection: publications
+permalink: /publication/research
 --- 
 
 # Research
