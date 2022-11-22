@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Eva Loaeza"
 title_separator          : "-"
-name                     : &name "Eva Loaeza Albino"
+name                     : &name "Eva Davinia Loaeza Albino"
 description              : &description "PhD Candidate in Economics at University of Houston"
 url                      : https://evaloaeza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
