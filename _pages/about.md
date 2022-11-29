@@ -14,6 +14,6 @@ I am a fourth year PhD student in Economics at [University of Houston](https://w
 
 Previously, I worked as an economist at the Federal Economic Competition Commission [(COFECE)](https://www.cofece.mx/?lang=en), and the Mexican Social Security Institute [(IMSS)](http://www.imss.gob.mx/), both in Mexico City.
 
-My research interests are in empirical industrial organization, health economics, and agricultural economics. I’m currently working on the effects of social networks on marijuana use in the United States, and the effects of geographical indication labels in Mexico.
+My research interests are in empirical industrial organization, health economics, and agricultural economics. I’m currently working on the effects of social networks on marijuana use, and the effects of geographical indication labels.
 
 Here you can find my <a href="/files/EvaLoaeza_CV_2022.pdf">CV</a>.
