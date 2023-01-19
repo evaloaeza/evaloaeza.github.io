@@ -16,4 +16,4 @@ Previously, I worked as an economist at the Federal Economic Competition Commiss
 
 My research interests are in empirical industrial organization, and health economics. I’m currently working on the effects of social networks on marijuana use, and the effects of geographical indication labels.
 
-Here you can find my <a href="/files/EvaLoaeza_CV_2022.pdf">CV</a>.
+Here you can find my <a href="/files/EvaLoaeza_CV_2023.pdf">CV</a>.
