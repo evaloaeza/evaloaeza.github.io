@@ -9,7 +9,7 @@ author_profile: true
   <br/>
   [PDF](http://example.com/){: .btn} &nbsp; [Slides](/files/paper1.pdf){: .btn}
 - School Capital Investment at Long and Short Horizons (with [Bent E. Sorensen](https://www.uh.edu/~bsorense/), [Steven Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Md Abdullah Al Mashrur, Ryan McGregor, and Sameer Malik)
-<br/>
+  <br/>
   [Slides](http://example.com/){: .btn}
   
 # Working Papers
