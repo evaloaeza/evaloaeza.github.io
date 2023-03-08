@@ -7,6 +7,3 @@ date: 2017-10-01
 venue: 'Cofece'
 paperurl: 'https://www.cofece.mx/study-on-free-market-and-competition-in-the-expired-patent-drug-markets-in-mexico-cofece-in-2017/'
 ---
-
-
-[Download paper here](https://www.cofece.mx/study-on-free-market-and-competition-in-the-expired-patent-drug-markets-in-mexico-cofece-in-2017/)
