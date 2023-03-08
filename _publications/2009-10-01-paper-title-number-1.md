@@ -8,6 +8,3 @@ venue: 'Cofece'
 paperurl: 'https://www.cofece.mx/reporte-sobre-las-condiciones-de-competencia-en-el-sector-agroalimentario-2/'
 
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](https://www.cofece.mx/reporte-sobre-las-condiciones-de-competencia-en-el-sector-agroalimentario-2/)
