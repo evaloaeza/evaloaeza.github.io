@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eva Loaeza"
+title                    : "Eva Loaeza-Albino"
 title_separator          : "-"
-name                     : &name "Eva Loaeza Albino"
+name                     : &name "Eva Davinia Loaeza Albino"
 description              : &description "PhD Candidate in Economics at University of Houston"
 url                      : https://evaloaeza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eva Loaeza"
+  name             : "Eva Loaeza-Albino"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics at University of Houston"
   location         : "Houston, TX"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"evadavinia"
+  twitter          : "evadavinia"
   vine             :
   weibo            :
   xing             :
@@ -243,7 +243,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -8,6 +8,3 @@ venue: 'Cofece'
 paperurl: 'https://www.cofece.mx/estudios-economicos-estudio-de-competencia-en-el-autotransporte-federal-de-pasajeros/'
 
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](https://www.cofece.mx/estudios-economicos-estudio-de-competencia-en-el-autotransporte-federal-de-pasajeros/)

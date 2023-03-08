@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here you can find my <a href="/files/EvaLoaeza_CV_2023.pdf">CV</a>.
+
 Education
 ======
 * Ph.D. in Economics, University of Houston, 2024 (expected)
