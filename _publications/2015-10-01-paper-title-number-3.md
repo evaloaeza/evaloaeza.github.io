@@ -7,6 +7,6 @@ date: 2017-10-01
 venue: 'Cofece'
 paperurl: 'https://www.cofece.mx/study-on-free-market-and-competition-in-the-expired-patent-drug-markets-in-mexico-cofece-in-2017/'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We study the degree of competition in private drug markets once the patent of the original drug expires. Our main findigs are: 1) the entry of generic drugs into the market is late and slow, 2) generic drugs do not pose enough competitive pressure once they enter the market, and 3) there are regulatory factors that may hinder the entry of generics.
 
 [Download paper here](https://www.cofece.mx/study-on-free-market-and-competition-in-the-expired-patent-drug-markets-in-mexico-cofece-in-2017/)
