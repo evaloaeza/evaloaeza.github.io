@@ -6,6 +6,10 @@
    Default button
    ========================================================================== */
 
+$btn-background: #39a4d2;
+$btn-border: #56a1c5;
+$btn-color: #fff;
+
 .btn {
   /* default button */
   display: inline-block;
@@ -23,7 +27,8 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    border: 2px solid $btn-background;
+    color: $btn-color;
   }
 
   .icon {
