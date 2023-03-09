@@ -11,17 +11,14 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  
-  border: 2px solid;
-  color: black;
-  padding: 14px 28px;
-  border-color: #2196F3
+  color: #ffff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: transparent;
+  background-color: $primary-color;
+  border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
