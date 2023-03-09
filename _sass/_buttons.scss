@@ -9,13 +9,14 @@
 $btn-background: #39a4d2;
 $btn-border: #56a1c5;
 $btn-color: #fff;
+$btn-txtcolor: #232766;
 
 .btn {
   /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color:#232766 !important;
+  color: $btn-txtcolor !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
