@@ -15,3 +15,8 @@ Previously, I worked as an economist at the Federal Economic Competition Commiss
 My research interests are in empirical industrial organization, and health economics. I’m currently working on the effects of social networks on marijuana use, and the effects of geographical indication labels.
 
 Here you can find my <a href="/files/EvaLoaeza_CV_2023.pdf">CV</a>.
+
+# Sobre mí (Español)
+
+Soy estudiante de Doctorado en Economía en la Universidad de Houston. Estudié la licenciatura en Economía en la UNAM y la maestría en Economía en el ITAM. 
+Cuento con amplia experiencia profesional en el Sector Público en las areas de salud y competencia económica. Trabaje en el Instituto Mexicano del Seguro Social y en la Comisión Federal de Competencia Económica. Soy originaria de Oaxaca, México. 
