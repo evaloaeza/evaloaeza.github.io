@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Work in Progress
 - A Discrete Choice Model for an Over-The-Counter Drug
-- <br/>
+ <br/>
  [PDF](http://example.com/){: .btn} &nbsp; [Slides](/files/paper1.pdf){: .btn}
 - Social connectness and Marijuana Use (With [Marit Hinnosaar](https://marit.hinnosaar.net/) and [Elaine Liu](https://uh.edu/~emliu/index.html))
   <br/>
