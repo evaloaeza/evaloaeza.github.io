@@ -1,7 +1,7 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2023-summer-teaching-1
 venue: "University of Houston, Economics"
 date: 2023-07-01
