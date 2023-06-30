@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2022-spring-teaching-2
+permalink: 
 venue: "University of Houston, Economics"
 date: 2022-06-01
 location: "Houston, USA"
