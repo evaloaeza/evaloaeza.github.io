@@ -2,7 +2,7 @@
 title: "Lecturer"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-summer-teaching-1
+permalink: 
 venue: "University of Houston, Economics"
 date: 2022-06-01
 location: "Hosuton, USA"
