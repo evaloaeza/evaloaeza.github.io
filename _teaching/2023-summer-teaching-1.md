@@ -9,7 +9,7 @@ location: "Hosuton, USA"
 ---
 
 - Principles of Microeconomics, Summer 2023
-    - Material available
+    - Syllabus [here](https://github.com/evaloaeza/Principles-Microeconomics/blob/main/Syllabus_MicroEconomics_070323.pdf){:target="_blank"}.
 - Principles of Macroeconomics, Summer 2022
     - Material available [here](https://github.com/evaloaeza/Principles-Macro){:target="_blank"}.
     - Course Evaluation <a href="/files/Macro_Course Evaluation Report_Summer2022.pdf">Report</a>
